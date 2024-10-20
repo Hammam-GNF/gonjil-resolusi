@@ -1,0 +1,8 @@
+RENCANA KONTEN GONJIL
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP
+- Interview
+- Vlogs
