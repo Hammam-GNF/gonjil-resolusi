@@ -3,7 +3,9 @@ RENCANA KONTEN GONJIL
 - Javascript
   * ES6
   * Framework Javascript
-- Struktur Data Dasar
+    ^ Angular
+    ^ React
 - PHP
+  ^ Laravel
 - Interview
 - Vlogs
